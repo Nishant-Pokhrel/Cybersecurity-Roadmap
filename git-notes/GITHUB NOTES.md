@@ -1,11 +1,4 @@
-So now you want something clean you can dump into a file instead of your scattered “half-learning, half-suffering” notes. Fine. Here’s a **proper `git.md`** you can copy-paste and actually use without crying later.
-
----
-
-````markdown
 # Git & GitHub Notes
-
----
 
 ## 🔹 1. What is Git?
 Git is a distributed version control system used to track changes in files and manage project history.
