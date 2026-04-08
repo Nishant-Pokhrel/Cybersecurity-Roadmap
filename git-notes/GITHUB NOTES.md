@@ -147,7 +147,6 @@ git reset --soft HEAD~1
 git push --force
 ```
 
----
 
 ## 🔹 12. Best Practices
 
@@ -158,12 +157,6 @@ git push --force
 * Use `.gitignore`
 * Check `git status` frequently
 
----
 
-## 🎯 Learning Goal
-
+##  Learning Goal
 To master Git, GitHub, and version control as part of my cybersecurity journey.
-
-```
-
----
